@@ -15,7 +15,7 @@ note: This repository contains `.vscode` for example (for explanation purpose).
 
 ## Setup:
 
-setup(max / linux):
+setup(os x / linux):
 in project root directory.
 ```
 python3 -m venv venv
