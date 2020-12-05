@@ -1,0 +1,15 @@
+echo we can run indivisual test file.
+
+pytest ./tests/test_calc.py
+
+echo.
+
+echo we can run whole file.
+
+pytest .
+
+echo.
+
+echo we can run whole file without specify directory.
+
+pytest
